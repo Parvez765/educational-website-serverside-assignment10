@@ -2,15 +2,24 @@
     {
         "id": 1,
         "category": 1,
-        "name": "Web Development Course",
-        "img" : "https://uploads-ssl.webflow.com/615af81f65d1ab72d2969269/62efdf9840dca733692cdd48_web%20dev%20basics.jpg",
-        "details": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+        "name": "Learn JavaScript",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG4BpdXUUBjLuLcTt3RdlxAS0nsWKMqLe8SQ&usqp=CAU",
+        "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.",
         "rating" : "5",
         "price" : "5500 BDT"
     },
     {
         "id": 2,
         "category": 1,
+        "name": "Learn Modern React",
+        "img" : "https://reactjs.org/logo-og.png",
+        "details": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.",
+        "rating" : "5",
+        "price" : "5000 BDT"
+    },
+    {
+        "id": 3,
+        "category": 2,
         "name": "Graphic Design Course",
         "img" : "https://blog.photoadking.com/wp-content/uploads/2021/03/Graphic-Design.jpg",
         "details": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts",
@@ -18,8 +27,8 @@
         "price" : "4000 BDT"
     },
     {
-        "id": 3,
-        "category": 2,
+        "id": 4,
+        "category": 3,
         "name": "Microsoft Office Course",
         "img" : "https://9to5google.com/wp-content/uploads/sites/4/2020/02/office-header.jpg?quality=82&strip=all",
         "details": "Microsoft Office, or simply Office, is a family of client software, server software, and services developed by Microsoft. It was first announced by Bill Gates on August 1, 1988, at COMDEX in Las Vegas.",
@@ -27,8 +36,8 @@
         "price" : "3000 BDT"
     },
     {
-        "id": 4,
-        "category": 2,
+        "id": 5,
+        "category": 4,
         "name": "Mastering Powerpoint",
         "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWO1AX2aTclTEhlRYE0Ocv_uJXC6q8ugQdWQNiRNizCwsTg13bX3RwkwnCO0WnD1bMylU&usqp=CAU",
         "details": "Microsoft PowerPoint is a presentation program, created by Robert Gaskins and Dennis Austin at a software company named Forethought, Inc. It was released on April 20, 1987, initially for Macintosh computers only. Microsoft acquired PowerPoint for about $14 million three months after it appeared.",
@@ -36,22 +45,22 @@
         "price" : "2500 BDT"
     },
     {
-        "id": 5,
-        "category": 3,
+        "id": 6,
+        "category": 5,
         "name": "Digital Marketing Course",
         "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo3Nzaw2e908csJa1YhjoMDM55Lw8fTpaF_Q&usqp=CAU",
-        "details": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+        "details": "Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services.",
         "rating" : "5",
-        "price" : "5500 BDT"
+        "price" : "4500 BDT"
     },
     {
-        "id": 6,
-        "category": 4,
-        "name": "Digital Marketing Course",
-        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo3Nzaw2e908csJa1YhjoMDM55Lw8fTpaF_Q&usqp=CAU",
-        "details": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+        "id": 7,
+        "category": 6,
+        "name": "Linkedin Marketing",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZpJIDiLjuXurdvuWY9UAIxYUvdREnCRRRng&usqp=CAU",
+        "details": "LinkedIn is an American business and employment-oriented online service that operates via websites and mobile apps. Launched on May 5, 2003, the platform is primarily used for professional networking and career development, and allows job seekers to post their CVs and employers to post jobs",
         "rating" : "5",
-        "price" : "5500 BDT"
+        "price" : "6000 BDT"
     }
   
 ]
